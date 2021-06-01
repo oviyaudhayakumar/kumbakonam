@@ -1,6 +1,6 @@
 const questions = [
     {
-        question: "The tallest is the eastern tower, with 11 stories and a height of 128 feet (39 m) ",
+        question: "The tallest is the eastern tower  with 11 stories and a height of 128 feet (39 m) ",
         optionA: "Kasi  Viswanathar Temple",
         optionB: "Adi Kumbeswarar Temple",
         optionC: "Ramaswamy temple",
@@ -9,7 +9,7 @@ const questions = [
     },
 
     {
-        question: "The tallest is the western tower, with seven stories and a height of 72 feet (22 m).",
+        question: "The tallest is the western tower with seven stories and a height of 72 feet (22 m).",
         optionA: "Kasi  Viswanathar Temple",
         optionB: "Adi Kumbeswarar Temple",
         optionC: "Ramaswamy temple",
@@ -18,7 +18,7 @@ const questions = [
     },
 
     {
-        question: "The town is bounded by two rivers, the __ River to the north and ___ River to the south.",
+        question: "The town is bounded by two rivers  the __ River to the north and ___ River to the south.",
         optionA: "Kaveri , Arasalar",
         optionB: "Kaveri , Ganga",
         optionC: "Ganga , Bharmaputira",
