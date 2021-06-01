@@ -1,6 +1,6 @@
 const questions = [
     {
-        question: "The tallest is the eastern tower, with 11 stories and a height of 128 feet (39 m)",
+        question: "The tallest is the eastern tower, with 11 stories and a height of 128 feet (39 m) ",
         optionA: "Kasi  Viswanathar Temple",
         optionB: "Adi Kumbeswarar Temple",
         optionC: "Ramaswamy temple",
@@ -9,7 +9,7 @@ const questions = [
     },
 
     {
-        question :"The tallest is the western tower, with seven stories and a height of 72 feet (22 m).",
+        question: "The tallest is the western tower, with seven stories and a height of 72 feet (22 m).",
         optionA: "Kasi  Viswanathar Temple",
         optionB: "Adi Kumbeswarar Temple",
         optionC: "Ramaswamy temple",
@@ -27,7 +27,7 @@ const questions = [
     },
 
     {
-        question: "The temple complex covers __ acres and is located close to the Mahamaham tank.",
+        question: " The temple complex covers __ acres and is located close to the Mahamaham tank.",
         optionA: "6",
         optionB: "4",
         optionC: "2",
@@ -45,7 +45,7 @@ const questions = [
     },
 
     {
-        question: "The tank is located in the heart of Kumbakonam town. It covers an area of 6.2 acres and is __ in shape.",
+        question: " The tank is located in the heart of Kumbakonam town. It covers an area of 6.2 acres and is __ in shape.",
         optionA: "trapezoidal",
         optionB: "Square",
         optionC: "Triangle",
@@ -63,7 +63,7 @@ const questions = [
     },
 
     {
-        question: "The rajagopuram (the main gateway) has eleven tiers and has a height of ___ ",
+        question: " The rajagopuram (the main gateway) has eleven tiers and has a height of ___ ",
         optionA: "173 ft",
         optionB: "174 ft",
         optionC: "172 ft",
