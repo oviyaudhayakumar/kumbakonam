@@ -59,7 +59,7 @@ const questions = [
         optionB: " Ramaswamy temple ",
         optionC: " Chakeapani temple ",
         optionD: " None of the above ",
-        correctOption: "optionA
+        correctOption: "optionA"
     },
 
     {
@@ -81,7 +81,7 @@ const questions = [
     },
 
     {
-        question: `"__ is a Hindu temple dedicated to Vishnu located in Kumbakonam, Tamil Nadu, India. This temple is located 2 km, away towards North West from the Kumbakonam Railway Station. "`,
+        question: "__ is a Hindu temple dedicated to Vishnu located in Kumbakonam, Tamil Nadu, India. This temple is located 2 km, away towards North West from the Kumbakonam Railway Station. ",
         optionA: " Ramaswamy temple",
         optionB: " Sarangapani temple ",
         optionC: " Adi Kumbeswarar Temple ",
