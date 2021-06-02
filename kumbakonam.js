@@ -1,91 +1,91 @@
 const questions = [
     {
-        question: "The tallest is the eastern tower  with 11 stories and a height of 128 feet (39 m) ",
-        optionA: "Kasi  Viswanathar Temple",
-        optionB: "Adi Kumbeswarar Temple",
-        optionC: "Ramaswamy temple",
-        optionD: "Chakrapani temple",
+        question: "The tallest is the eastern tower, with 11 stories and a height of 128 feet (39 m)",
+        optionA: " Kasi  Viswanathar Temple ",
+        optionB: " Adi Kumbeswarar Temple ",
+        optionC: " Ramaswamy temple ",
+        optionD: " Chakrapani temple ",
         correctOption: "optionB"
     },
 
     {
-        question: "The tallest is the western tower with seven stories and a height of 72 feet (22 m).",
-        optionA: "Kasi  Viswanathar Temple",
-        optionB: "Adi Kumbeswarar Temple",
-        optionC: "Ramaswamy temple",
-        optionD: "Chakrapani temple",
+        question:  " The tallest is the western tower, with seven stories and a height of 72 feet (22 m). ",
+        optionA: " Kasi  Viswanathar Temple ",
+        optionB: " Adi Kumbeswarar Temple ",
+        optionC: " Ramaswamy temple",
+        optionD: " Chakrapani temple ",
         correctOption: "optionA"
     },
 
     {
-        question: "The town is bounded by two rivers  the __ River to the north and ___ River to the south.",
-        optionA: "Kaveri , Arasalar",
-        optionB: "Kaveri , Ganga",
-        optionC: "Ganga , Bharmaputira",
-        optionD: "All the above",
+        question:  " The town is bounded by two rivers, the _ River to the north and __ River to the south. ",
+        optionA: " Kaveri , Arasalar ",
+        optionB: " Kaveri , Ganga  ",
+        optionC: " Ganga , Bharmaputira ",
+        optionD: " All the above ",
         correctOption: "optionA"
     },
 
     {
-        question: " The temple complex covers __ acres and is located close to the Mahamaham tank.",
-        optionA: "6",
-        optionB: "4",
-        optionC: "2",
-        optionD: "3",
+        question:  " The temple complex covers __ acres and is located close to the Mahamaham tank. ",
+        optionA: " 6 ",
+        optionB: " 4 ",
+        optionC: " 2 ",
+        optionD: " 3 ",
         correctOption: "optionC"
     },
 
     {
-        question: "The tank is surrounded by sixteen small Mandapams (shrines) and has 21 wells inside the tank.",
-        optionA: "All the below ",
-        optionB: "Maham tank ",
-        optionC: "Maha tank ",
-        optionD: "Mahamaham tank ",
+        question: " The tank is surrounded by sixteen small Mandapams (shrines) and has 21 wells inside the tank. ",
+        optionA: " All the below ",
+        optionB: " Maham tank ",
+        optionC: " Maha tank ",
+        optionD: " Mahamaham tank ",
         correctOption: "optionD"
     },
 
     {
-        question: " The tank is located in the heart of Kumbakonam town. It covers an area of 6.2 acres and is __ in shape.",
-        optionA: "trapezoidal",
-        optionB: "Square",
-        optionC: "Triangle",
-        optionD: "Rectangle",
-        correctOption: "optionA "
+        question:" The tank is located in the heart of Kumbakonam town. It covers an area of 6.2 acres and is __ in shape. ",
+        optionA: " trapezoidal  ",
+        optionB: " Square ",
+        optionC: " Triangle ",
+        optionD: " Rectangle ",
+        correctOption: " optionA "
     },
 
     {
-        question: "Aditya Chola constructed this temple during the 9th century",
-        optionA: "Nageswaran Kovil",
-        optionB: "Ramaswamy temple",
-        optionC: "Chakeapani temple",
-        optionD: "None of the above",
+        question: " Aditya Chola constructed this temple during the 9th century",
+        optionA: " Nageswaran Kovil ",
+        optionB: " Ramaswamy temple ",
+        optionC: " Chakeapani temple ",
+        optionD: " None of the above ",
+        correctOption: "optionA
+    },
+
+    {
+        question: " The rajagopuram (the main gateway) has eleven tiers and has a height of ___",
+        optionA: " 173 ft",
+        optionB: " 174 ft ",
+        optionC: " 175 ft ",
+        optionD: " 176 ft ",
         correctOption: "optionA"
     },
 
     {
-        question: " The rajagopuram (the main gateway) has eleven tiers and has a height of ___ ",
-        optionA: "173 ft",
-        optionB: "174 ft",
-        optionC: "172 ft",
-        optionD: "171 ft",
-        correctOption: "optionA"
-    },
-
-    {
-        question : "The temple has beautiful architecture pieces and has been built by the Thanjavur Nayak kings and Govinda Dikshitar, the prime minister of the Nayaks, constructed the temple. ",
-        optionA: "Chakrapani temple",
-        optionB: "Adi Kumbeswarar Temple",
-        optionC: "Sarangapani temple",
-        optionD: "Ramaswamy temple",
+        question: " The temple has beautiful architecture pieces and has been built by the Thanjavur Nayak kings and Govinda Dikshitar, the prime minister of the Nayaks, constructed the temple. ",
+        optionA: " Chakrapani temple ",
+        optionB: " Adi Kumbeswarar Temple  ",
+        optionC: " Sarangapani temple ",
+        optionD: " Ramaswamy temple ",
         correctOption: "optionD"
     },
 
     {
-        question: "__ is a Hindu temple dedicated to Vishnu located in Kumbakonam, Tamil Nadu, India. This temple is located 2 km, away towards North West from the Kumbakonam Railway Station. ",
-        optionA: "Ramaswamy temple",
-        optionB: "Sarangapani temple",
-        optionC: "Adi Kumbeswarar Temple",
-        optionD: "Chakrapani temple",
+        question: `"__ is a Hindu temple dedicated to Vishnu located in Kumbakonam, Tamil Nadu, India. This temple is located 2 km, away towards North West from the Kumbakonam Railway Station. "`,
+        optionA: " Ramaswamy temple",
+        optionB: " Sarangapani temple ",
+        optionC: " Adi Kumbeswarar Temple ",
+        optionD: " Chakrapani temple ",
         correctOption: "optionD"
     },
 
@@ -93,10 +93,11 @@ const questions = [
 ]
 
 
-let shuffledQuestions = [] 
+let shuffledQuestions = [] //empty array to hold shuffled selected questions out of all available questions
 
 function handleQuestions() { 
-    
+    //function to shuffle and push 10 questions to shuffledQuestions array
+//app would be dealing with 10questions per session
     while (shuffledQuestions.length <= 9) {
         const random = questions[Math.floor(Math.random() * questions.length)]
         if (!shuffledQuestions.includes(random)) {
@@ -106,12 +107,13 @@ function handleQuestions() {
 }
 
 
-let questionNumber = 1 
-let playerScore = 0  
-let wrongAttempt = 0 
-let indexNumber = 0 
+let questionNumber = 1 //holds the current question number
+let playerScore = 0  //holds the player score
+let wrongAttempt = 0 //amount of wrong answers picked by player
+let indexNumber = 0 //will be used in displaying next question
 
-
+// function for displaying next question in the array to dom
+//also handles displaying players and quiz information to dom
 function NextQuestion(index) {
     handleQuestions()
     const currentQuestion = shuffledQuestions[index]
@@ -127,30 +129,30 @@ function NextQuestion(index) {
 
 
 function checkForAnswer() {
-    const currentQuestion = shuffledQuestions[indexNumber] 
-    const currentQuestionAnswer = currentQuestion.correctOption 
-    const options = document.getElementsByName("option");
+    const currentQuestion = shuffledQuestions[indexNumber] //gets current Question 
+    const currentQuestionAnswer = currentQuestion.correctOption //gets current Question's answer
+    const options = document.getElementsByName("option"); //gets all elements in dom with name of 'option' (in this the radio inputs)
     let correctOption = null
 
     options.forEach((option) => {
         if (option.value === currentQuestionAnswer) {
-            
+            //get's correct's radio input with correct answer
             correctOption = option.labels[0].id
         }
     })
 
-   
+    //checking to make sure a radio input has been checked or an option being chosen
     if (options[0].checked === false && options[1].checked === false && options[2].checked === false && options[3].checked == false) {
         document.getElementById('option-modal').style.display = "flex"
     }
 
-    
+    //checking if checked radio button is same as answer
     options.forEach((option) => {
         if (option.checked === true && option.value === currentQuestionAnswer) {
             document.getElementById(correctOption).style.backgroundColor = "green"
-            playerScore++ 
-            indexNumber++ 
-            
+            playerScore++ //adding to player's score
+            indexNumber++ //adding 1 to index so has to display next question..
+            //set to delay question number till when next question loads
             setTimeout(() => {
                 questionNumber++
             }, 1000)
@@ -160,30 +162,36 @@ function checkForAnswer() {
             const wrongLabelId = option.labels[0].id
             document.getElementById(wrongLabelId).style.backgroundColor = "red"
             document.getElementById(correctOption).style.backgroundColor = "green"
-            wrongAttempt++ 
+            wrongAttempt++ //adds 1 to wrong attempts 
             indexNumber++
-            
+            //set to delay question number till when next question loads
             setTimeout(() => {
                 questionNumber++
             }, 1000)
-        
+        }
+    })
+}
+
+
+
+//called when the next button is called
 function handleNextQuestion() {
-    checkForAnswer() 
+    checkForAnswer() //check if player picked right or wrong option
     unCheckRadioButtons()
-    
+    //delays next question displaying for a second just for some effects so questions don't rush in on player
     setTimeout(() => {
         if (indexNumber <= 9) {
-
+//displays next question as long as index number isn't greater than 9, remember index number starts from 0, so index 9 is question 10
             NextQuestion(indexNumber)
         }
         else {
-            handleEndGame()
+            handleEndGame()//ends game if index number greater than 9 meaning we're already at the 10th question
         }
         resetOptionBackground()
     }, 1000);
 }
 
-
+//sets options background back to null after display the right/wrong colors
 function resetOptionBackground() {
     const options = document.getElementsByName("option");
     options.forEach((option) => {
@@ -191,7 +199,7 @@ function resetOptionBackground() {
     })
 }
 
-
+// unchecking all radio buttons for next question(can be done with map or foreach loop also)
 function unCheckRadioButtons() {
     const options = document.getElementsByName("option");
     for (let i = 0; i < options.length; i++) {
@@ -199,12 +207,12 @@ function unCheckRadioButtons() {
     }
 }
 
-
+// function for when all questions being answered
 function handleEndGame() {
     let remark = null
     let remarkColor = null
 
-    
+    // condition check for player remark and remark color
     if (playerScore <= 3) {
         remark = "Bad Grades, Keep Practicing."
         remarkColor = "red"
@@ -219,7 +227,7 @@ function handleEndGame() {
     }
     const playerGrade = (playerScore / 10) * 100
 
-    
+    //data to display to score board
     document.getElementById('remarks').innerHTML = remark
     document.getElementById('remarks').style.color = remarkColor
     document.getElementById('grade-percentage').innerHTML = playerGrade
@@ -229,7 +237,7 @@ function handleEndGame() {
 
 }
 
-
+//closes score modal, resets game and reshuffles questions
 function closeScoreModal() {
     questionNumber = 1
     playerScore = 0
@@ -240,7 +248,7 @@ function closeScoreModal() {
     document.getElementById('score-modal').style.display = "none"
 }
 
-
+//function to close warning modal
 function closeOptionModal() {
     document.getElementById('option-modal').style.display = "none"
 }
