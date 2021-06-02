@@ -36,7 +36,7 @@ const questions = [
     },
 
     {
-        question: " The tank is surrounded by sixteen small Mandapams (shrines) and has 21 wells inside the tank. ",
+        question: " The tank is surrounded by sixteen small Mandapams (shrines) and has 21 wells inside the tank ",
         optionA: " All the below ",
         optionB: " Maham tank ",
         optionC: " Maha tank ",
@@ -45,16 +45,16 @@ const questions = [
     },
 
     {
-        question:" The tank is located in the heart of Kumbakonam town. It covers an area of 6.2 acres and is __ in shape. ",
+        question: " The tank is located in the heart of Kumbakonam town. It covers an area of 6.2 acres and is __ in shape ",
         optionA: " trapezoidal  ",
         optionB: " Square ",
         optionC: " Triangle ",
         optionD: " Rectangle ",
-        correctOption: " optionA "
+        correctOption: "optionA"
     },
 
     {
-        question: " Aditya Chola constructed this temple during the 9th century",
+        question: " Aditya Chola constructed this temple during the 9th century ",
         optionA: " Nageswaran Kovil ",
         optionB: " Ramaswamy temple ",
         optionC: " Chakeapani temple ",
@@ -63,7 +63,7 @@ const questions = [
     },
 
     {
-        question: " The rajagopuram (the main gateway) has eleven tiers and has a height of ___",
+        question: " The rajagopuram (the main gateway) has eleven tiers and has a height of ___ ",
         optionA: " 173 ft",
         optionB: " 174 ft ",
         optionC: " 175 ft ",
